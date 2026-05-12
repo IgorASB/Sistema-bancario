@@ -58,7 +58,7 @@ git clone https://github.com/IgorASB/Sistema-bancario.git
 cd Sistema-bancario
 
 # 2. Execute
-python sistema_bancario.py
+python sistemabank.py
 ```
 
 ---
@@ -80,7 +80,7 @@ python sistema_bancario.py
 
 ```
 Sistema-bancario/
-├── sistema_bancario.py   # Código-fonte principal
+├── sistemabank.py   # Código-fonte principal
 └── README.md
 ```
 
